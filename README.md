@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Youknow15
-- 👀 I’m interested in flutter
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...kimyunho@easylifesvc.com
 
